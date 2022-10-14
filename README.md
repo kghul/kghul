@@ -1,4 +1,4 @@
-- 👋 I am Klas Hultqvist. I'm an IceCube member at Stockholm University.
+- 👋 I'm an IceCube member at Stockholm University.
 
 <!---
 kghul/kghul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
